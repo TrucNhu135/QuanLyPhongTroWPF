@@ -1,0 +1,16 @@
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\QuanLyPhongTroWPF.csproj.AssemblyReference.cache
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\MainWindow.g.cs
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\App.g.cs
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\QuanLyPhongTroWPF_MarkupCompile.cache
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\QuanLyPhongTroWPF_MarkupCompile.lref
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\bin\Debug\QuanLyPhongTroWPF.exe.config
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\bin\Debug\QuanLyPhongTroWPF.exe
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\bin\Debug\QuanLyPhongTroWPF.pdb
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\MainWindow.baml
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\QuanLyPhongTroWPF.g.resources
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\QuanLyPhongTroWPF.Properties.Resources.resources
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\QuanLyPhongTroWPF.csproj.GenerateResource.cache
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\QuanLyPhongTroWPF.csproj.CoreCompileInputs.cache
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\QuanLyPhongTroWPF.exe
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\QuanLyPhongTroWPF.pdb
+D:\LTCSDL\QuanLyPhongTroWPF\QuanLyPhongTroWPF\obj\Debug\QuanLyPhongTroWPF.exe.config
